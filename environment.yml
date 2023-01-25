@@ -1,4 +1,4 @@
-name: fastLayersDecomposition
+name: fastlayers
 channels:
   - conda-forge
   - defaults
