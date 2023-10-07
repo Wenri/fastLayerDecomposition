@@ -83,6 +83,9 @@ Install dependencies:
 * pyopencl
 * websockets (`pip install websockets`)
 
+#### Compile the one Cython file
+
+    cythonize -i GteDistPointTriangle.pyx
 
 #### Running the server
 
